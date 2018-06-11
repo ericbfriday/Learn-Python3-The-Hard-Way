@@ -1,0 +1,5 @@
+print("I am now counting")
+print("Thing 1: ", 25 + 1)
+print("Thing 2: ", 25 % 5)
+print("Thing 3", 3 + 2 + 1 - 4 % 2 / 2)
+print(" 5 - 7 = ", float(5 - 7))
